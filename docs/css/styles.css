@@ -13,7 +13,7 @@
 }
 
 #banner {
-    background-image: url("docs/images/car.jpg");
+    background-image: url("../images/car.jpg");
     background-size: cover;
     height: 600px;
     position: relative;
