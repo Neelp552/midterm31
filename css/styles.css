@@ -1,0 +1,86 @@
+xbody {
+    overflow: scroll;
+
+}
+
+#wrapper {
+    width: 960px;
+    /* background-color: blanchedalmond; */
+}
+#top {
+    height: 135px;
+    line-height: 135px;
+}
+#logo {
+    height: 135px;
+}
+
+#banner {
+    background-image: url("../images/car.jpg");
+    background-size: cover;
+    height: 600px;
+    position: relative;
+}
+
+#main {
+    margin-top: 31px;
+}
+
+#footer {
+    height: 90px;
+    line-height: 90px;
+}
+
+#banner h1 {
+    position: relative;
+    top: 150px;
+    left: 30px;
+}
+.Helvetica {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.grBig {
+    width: 600px;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.textRight {
+    text-align: left;
+}
+
+.wrapperPaddingRight {
+    padding-right: 31px;
+}
+
+.clearMargin {
+    margin: 0px;
+}
+
+.clearPadding {
+    padding: 0px;
+}
+
+
+
+
+.displayInline {
+    display: inline;
+    align: left;
+}
+
+
+.clearFix {
+    clear: both;
+}
+
+.grSmall {
+    width: 329px;
+}
+
+.alignCenter {
+    text-align: center;
+}
