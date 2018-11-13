@@ -57,7 +57,7 @@
 }
 
 .clearMargin {
-    margin: 0px;
+    margin: 10px;
 }
 
 .clearPadding {
@@ -76,8 +76,7 @@
 .grSmall {
     width: 323px;
 }
-#sideCard {
-    padding: 18px;
+
 
 .alignCenter {
     text-align: center;
