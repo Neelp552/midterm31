@@ -84,3 +84,10 @@ xbody {
 .alignCenter {
     text-align: center;
 }
+
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
