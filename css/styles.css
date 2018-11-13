@@ -5,11 +5,11 @@ xbody {
 
 #wrapper {
     width: 960px;
-    /* background-color: blanchedalmond; */
+     background-color: white;
 }
 #top {
-    height: 135px;
-    line-height: 135px;
+    height: 100px;
+    line-height: 100px;
 }
 #logo {
     height: 135px;
@@ -39,9 +39,12 @@ xbody {
 .Helvetica {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
+.marginCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
 .grBig {
-    width: 600px;
+    width: 500px;
 }
 
 .floatLeft {
@@ -49,7 +52,7 @@ xbody {
 }
 
 .textRight {
-    text-align: left;
+    text-align: right;
 }
 
 .wrapperPaddingRight {
@@ -64,14 +67,10 @@ xbody {
     padding: 0px;
 }
 
-
-
-
 .displayInline {
     display: inline;
     align: left;
 }
-
 
 .clearFix {
     clear: both;
