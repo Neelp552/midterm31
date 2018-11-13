@@ -1,11 +1,8 @@
-xbody {
-    overflow: scroll;
 
-}
 
 #wrapper {
     width: 960px;
-     background-color: white;
+    background-color: white;
 }
 #top {
     height: 100px;
@@ -37,7 +34,7 @@ xbody {
     left: 30px;
 }
 .Helvetica {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
 .marginCenter {
     margin-right: auto;
@@ -77,16 +74,22 @@ xbody {
 }
 
 .grSmall {
-    width: 329px;
+    width: 323px;
 }
+#sideCard {
+    padding: 18px;
 
 .alignCenter {
     text-align: center;
+}
+.thinBorder {
+    border: 1px black solid;
 }
 
 a{
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
